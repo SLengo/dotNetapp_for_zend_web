@@ -10,6 +10,7 @@ docker pull slacklengo/zend_internet_shop_web
 ```
 
 Контейнер содержит необходимую среду для работы Web-части проекта
+
 Для запуска контейнера используйте команду
 ``` bash
 docker run -it -p 5556:80 slacklengo/zend_internet_shop_web
