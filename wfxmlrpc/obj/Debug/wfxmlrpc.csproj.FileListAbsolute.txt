@@ -1,0 +1,14 @@
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\wfxmlrpc.exe.config
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\wfxmlrpc.exe
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\wfxmlrpc.pdb
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\Newtonsoft.Json.dll
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\xmlrpcwsc.dll
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\bin\Debug\Newtonsoft.Json.xml
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.Form1.resources
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.Properties.Resources.resources
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.csproj.GenerateResource.Cache
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.csproj.CoreCompileInputs.cache
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.exe
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.pdb
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.Form2.resources
+D:\SKLAD\Books\MasterDegree\3term\psos\cSharp\wfxmlrpc\wfxmlrpc\obj\Debug\wfxmlrpc.csprojResolveAssemblyReference.cache
